@@ -6,7 +6,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | -------------  | --- |
 | :sparkles: Nome        | **Titulo do meu projeto**
 | :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | https://www.alura.com.br/challenges/dados-2/semana-01-limpeza-analise-exploratoria-dados?utm_campaign=Challenge%20Dados%202%C2%AA%20ed.&utm_medium=email&_hsmi=271793752&_hsenc=p2ANqtz-9lUuEDu5bSc6MtCucWU8HeKGDFloqiwyD_kZw7XWV7CL5Ck3im5lz-ZdyhSp1AGqbIf7ERgiFTpTnfYlJJZt5wrbO0dA&utm_content=271793752&utm_source=hs_email
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
